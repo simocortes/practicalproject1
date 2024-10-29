@@ -1,0 +1,23 @@
+que es lo que vamos hacer
+
+mini proyecto web
+
+tecnologias
+
+html
+css
+bootstrap
+
+
+control de versiones
+repositorio local *git
+repositorio remoto *github
+
+
+
+
+
+
+
+
+
